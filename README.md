@@ -7,7 +7,6 @@ Atualmente estudo Python, lógica de programação e desenvolvimento de software
 
 Python
 
-Git
 
 GitHub
 
