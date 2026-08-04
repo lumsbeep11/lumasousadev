@@ -6,9 +6,13 @@ Atualmente estudo Python, lógica de programação e desenvolvimento de software
 #TECNOLOGIAS
 
 Python
+
 Git
+
 GitHub
+
 Lógica de Programação
+
 
 OBJETIVO
 
