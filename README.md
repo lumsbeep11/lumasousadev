@@ -1,10 +1,13 @@
-Olá! Eu sou a Luma 👋
+OLÁ! EU SOU A LUMA👋
+
 Sou estudante de Análise e Desenvolvimento de Sistemas e estou em busca da minha primeira oportunidade de estágio em Tecnologia da Informação.
 Atualmente estudo Python, lógica de programação e desenvolvimento de software, criando projetos para desenvolver minhas habilidades.
-#Tecnologias
+
+#TECNOLOGIAS
 Python
 Git
 GitHub
 Lógica de Programação
- #Objetivo
+
+OBJETIVO
 Construir um portfólio sólido e iniciar minha carreira na área de TI.
